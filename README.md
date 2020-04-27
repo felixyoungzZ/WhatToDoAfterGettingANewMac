@@ -12,4 +12,10 @@ Notes to record what to do after getting a new macbook.
 8. Alfred
 9. ShadowsocksR
 10. VSCode
-11. 
+11. Docker
+12. Telegram
+13. Dash
+14. Postman
+15. Go2shell
+16. Charles
+17. 
