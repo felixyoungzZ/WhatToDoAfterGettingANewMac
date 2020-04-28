@@ -109,3 +109,15 @@ ssh-keygen -t rsa -C "youremail@email.com"
 cd ~/.ssh
 cat id_rsa.pub
 ```
+
+11. Docker
+
+```sh
+brew install docker
+```
+
+12. postman
+[Download](https://www.postman.com/) & install.
+
+13. Charles
+[Download](https://www.charlesproxy.com/download/) & install.
